@@ -39,6 +39,6 @@ public class main {
 
         System.out.println("====================");
         Cafe cafe5 = new Cafe ("Dinnum", "Kroya");
-
+        cafe1.buka();
     }
 }
